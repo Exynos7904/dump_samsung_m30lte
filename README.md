@@ -1,0 +1,14 @@
+# m30ltedd-user 10 QP1A.190711.020 M305FDDS7CTL2 release-keys
+- manufacturer: 
+- platform: universal7904
+- codename: m30lte
+- flavor: m30ltedd-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: M305FDDS7CTL2
+- tags: release-keys
+- fingerprint: samsung/m30ltedd/m30lte:10/QP1A.190711.020/M305FDDS7CTL2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m30ltedd-user-10-QP1A.190711.020-M305FDDS7CTL2-release-keys
+- repo: samsung_m30lte_dump
